@@ -1,1 +1,1 @@
-# PythonWAProject
+# StringCutWebApplication
